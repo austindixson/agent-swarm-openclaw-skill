@@ -5,7 +5,7 @@
   "version": "1.8.0",
   "displayName": "Agent Swarm | OpenClaw Skill",
   "description": "Routes tasks to the right LLM model and delegates work through sessions_spawn. Requires OpenRouter. Includes prompt-injection rejection and input validation.",
-  "author": "RuneweaverStudios",
+  "author": "austindixson",
   "main": "scripts/router.py",
   "tags": [
     "routing",
